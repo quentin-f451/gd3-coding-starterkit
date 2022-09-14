@@ -5,6 +5,7 @@ You will find on this repo the resources to use for the first tutorial lesson. N
 ## Table of contents
 
 - [Prerequisites](#prerequisites)
+- [Exercice](#exercice)
 
 ## Prerequisites
 
@@ -42,3 +43,11 @@ Now each of you will get its own version of this repository.
 3. Go to the newly created folder on your computer and drag-and-drop it on the VS Code icon on your Dock.
 
 Now you can browse through the code repository! If you click on `Go Live` in the bottom bar, it should open a window on your browser with the website in it!
+
+## Exercice
+
+Modify the **CSS and JS files** in this repo in order to:
+
+1. Add a hover effect of your choice on all the `.list__item__header` elements.
+2. Add a click event on each `.list__item__header` element that toggles the `.list__item__body` element right next to it and closes all other `.list__item__body` element.
+3. Replace the content of each `.list__item__artist` element by only the data of birth of the artist.

@@ -5,3 +5,30 @@ body {
 .main {
   padding: 10px;
 }
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 10px;
+}
+
+.list__item {
+  border-bottom: 1px solid black;
+  padding: 5px 0;
+}
+
+.list__item__header {
+  display: flex;
+  gap: 5px;
+  align-items: baseline;
+  cursor: pointer;
+}
+
+.list__item__artist {
+  font-size: 10px;
+  white-space: nowrap;
+}
+
+.list__item__body {
+  display: none;
+}
