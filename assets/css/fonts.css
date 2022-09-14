@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "ABCRepro-Medium";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/ABCRepro-Medium-Trial.woff") format("woff"), url("../fonts/ABCRepro-Medium-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ABCRepro-MediumItalic";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url("ABCRepro-MediumItalic-Trial.woff");
+  src: url("../fonts/ABCRepro-MediumItalic-Trial.woff") format("woff"), url("../fonts/ABCRepro-MediumItalic-Trial.woff2") format("woff2");
+}
