@@ -36,6 +36,8 @@ git config --global user.name "Your Name"
 git config --global user.email youremail@gmail.com
 ```
 
+10. Signup on [Netlify](https://www.netlify.com/) with your Github account.
+
 Now each of you will get its own version of this repository.
 
 1. Fork this repository. This will create a copy of the repository on your own account. For that, click on the `Fork` button on the upper right side of the screen. You can keep the default options and click on `Create fork`.
