@@ -52,4 +52,4 @@ Modify the **CSS and JS files** in this repo in order to:
 
 1. Add a hover effect of your choice on all the `.list__item__header` elements.
 2. Add a click event on each `.list__item__header` element that toggles the `.list__item__body` element right next to it and closes all other `.list__item__body` element.
-3. Replace the content of each `.list__item__artist` element by only the data of birth of the artist.
+3. Replace the content of each `.list__item__artist` element by only the date of birth of the artist.
