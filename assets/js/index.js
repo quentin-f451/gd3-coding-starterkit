@@ -1,5 +1,5 @@
 const helloWorld = () => {
-  console.log("Text shown at the beginning");
+  console.log("Hello World");
 };
 
 helloWorld();
