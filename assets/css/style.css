@@ -32,13 +32,3 @@ body {
 .list__item__body {
   display: none;
 }
-
-.list__item__body.show {
-  display: block;
-}
-
-.list__item__header:hover {
-  color: blue;
-}
-
-/* Pseudo-element -> :hover, :focus, :after, :before */
